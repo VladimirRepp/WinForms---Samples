@@ -52,11 +52,13 @@
 
 ## 🔄 Эволюция проекта
 
-| Итерация | Проект | Описание |
-|----------|--------|----------|
-| 1 | [Console App](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/SimpleSeaBatlle/GameCoreSimpleSeaBattle) | Ядро игры, тестирование логики |
-| **2** | **WinForm V_0** *(текущий)* | Быстрый перенос на WinForms без паттернов |
-| 3 | WinForm MVP *(планируется)* | Внедрение Model-View-Presenter |
+| Итерация | Проект | Архитектура |
+|----------|--------|-------------|
+| 1 | [Console App](https://github.com/VladimirRepp/WinForms---Samples/tree/main/SimpleSeaBatlle/GameCoreSimpleSeaBattle) | Ядро игры, разделение логики и интерфейса |
+| **2** | **WinForm V_0** *(текущая версия)* | Быстрый перенос без паттернов |
+| 3 | [WinForms MVP](https://github.com/VladimirRepp/WinForms---Samples/tree/main/SimpleSeaBatlle/SimpleSeaBattle%20-%20WinForm%20MVP) | Model-View-Presenter ✅ |
+| 4 | [Unity](https://github.com/VladimirRepp/Unity---SimpleSeaBattle) | Пример переноса логики на Unity |
+
 
 ---
 
